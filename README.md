@@ -17,4 +17,4 @@ Link : https://www.chessprogramming.org/Main_Page
 
 CuteChess GUI Link : https://github.com/cutechess/cutechess
 
-Tested in Ubuntu 
+Tested in Ubuntu with both <strong> g++ and clang </strong> compilers

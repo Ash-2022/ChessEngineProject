@@ -14,7 +14,7 @@ Features of Chess Engine :
   <li> Basic UCI protocol (Tested with CuteChess GUI) </li>
 </ul>
 
-All Concepts were referenced from ChessProgrammingWiki(CPW)
+All Concepts were referenced from ChessProgrammingWiki(CPW) <br>
 Link : https://www.chessprogramming.org/Main_Page
 
 Tested in Ubuntu 

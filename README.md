@@ -1,5 +1,3 @@
-﻿Making a Chess Engine 
-
 Features of Chess Engine : 
 <ul>
   <li> Magic BitBoards </li>

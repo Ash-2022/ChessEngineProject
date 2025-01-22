@@ -5,7 +5,7 @@ Features of Chess Engine :
   <li> LMR(Late Move Reduction) </li>
   <li> MVV-LVA(Most Valuable Victim - Least Valuable Attacker) </li>
   <li> Quiesence Search </li>
-  <li> Zobrisht Hashing </li>
+  <li> Zobrist Hashing </li>
   <li> Game Phase Interpolation for Evaluation </li>
   <li> Transposition Tables </li>
   <li> Iterative Deepening </li>

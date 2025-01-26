@@ -1,4 +1,6 @@
-Features of Chess Engine : 
+<h1> Chess Engine </h1>
+This is a Bitboard based Chess Engine (Proof of Concept) 
+<h2>Features of Chess Engine : </h2> 
 <ul>
   <li> Magic BitBoards </li>
   <li> PVS (Principle Variation Search) </li>
